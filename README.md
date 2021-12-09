@@ -1,10 +1,10 @@
 # OS-Practical-Exam
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#Name- SUKAINA INAM NAQVI
-#Examination Roll Number- 20020570033 
-#Semester -III
-#Subject- Operating System Practical Exam
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Name- SUKAINA INAM NAQVI
+# Examination Roll Number- 20020570033 
+# Semester -III
+# Subject- Operating System Practical Exam
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 There are two Questions in this. The Questions are:- 
 Q1. implement Round Robin scheduling algorith with Quanta 3. Compute waitng time, turnaround time. 
 Q2. Write a program to demonstrate fork where parent and child run same codes and parent process should be executed first. 
@@ -18,7 +18,7 @@ Quantum time is 3 this means each process is only executing for 3 units of time 
 Completion Time: the time taken for a process to complete.
 Turn Around Time: total time the process exists in the system. (completion time – arrival time).
 Waiting Time: total time waiting for their complete execution. (turn around time – burst time ). 
-#~~~~~~~~~~~Second Question Description:-~~~~~~~~~ 
+# ~~~~~~~~~~~Second Question Description:-~~~~~~~~~ 
 Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process).
 After a new child process is created, both processes will execute the next instruction following the fork() system call.
 A child process uses the same pc(program counter), same CPU registers, same open files which use in the parent process. 
