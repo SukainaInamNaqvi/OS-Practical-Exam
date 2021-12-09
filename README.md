@@ -1,10 +1,10 @@
 # OS-Practical-Exam
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Name- SUKAINA INAM NAQVI
 # Examination Roll Number- 20020570033 
 # Semester -III
 # Subject- Operating System Practical Exam
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 There are two Questions in this. The Questions are:- 
 Q1. implement Round Robin scheduling algorith with Quanta 3. Compute waitng time, turnaround time. 
 Q2. Write a program to demonstrate fork where parent and child run same codes and parent process should be executed first. 
